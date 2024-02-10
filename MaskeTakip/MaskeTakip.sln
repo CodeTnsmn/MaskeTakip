@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{61275620-620D-4314-9D1F-58CA8775657D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{CA5311DA-F39B-463D-A5AF-776FEC1C3D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{9BBC7446-BB30-4BA3-B1DB-34F4C1500C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61275620-620D-4314-9D1F-58CA8775657D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61275620-620D-4314-9D1F-58CA8775657D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61275620-620D-4314-9D1F-58CA8775657D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61275620-620D-4314-9D1F-58CA8775657D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5311DA-F39B-463D-A5AF-776FEC1C3D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5311DA-F39B-463D-A5AF-776FEC1C3D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5311DA-F39B-463D-A5AF-776FEC1C3D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5311DA-F39B-463D-A5AF-776FEC1C3D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBC7446-BB30-4BA3-B1DB-34F4C1500C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBC7446-BB30-4BA3-B1DB-34F4C1500C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBC7446-BB30-4BA3-B1DB-34F4C1500C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBC7446-BB30-4BA3-B1DB-34F4C1500C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1316CBA0-33C8-4B87-ACF2-4F4851441BFB}
+	EndGlobalSection
+EndGlobal

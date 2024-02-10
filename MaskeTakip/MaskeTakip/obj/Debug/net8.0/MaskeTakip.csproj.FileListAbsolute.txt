@@ -1,0 +1,14 @@
+D:\C#\MaskeTakip\MaskeTakip\bin\Debug\net8.0\MaskeTakip.exe
+D:\C#\MaskeTakip\MaskeTakip\bin\Debug\net8.0\MaskeTakip.deps.json
+D:\C#\MaskeTakip\MaskeTakip\bin\Debug\net8.0\MaskeTakip.runtimeconfig.json
+D:\C#\MaskeTakip\MaskeTakip\bin\Debug\net8.0\MaskeTakip.dll
+D:\C#\MaskeTakip\MaskeTakip\bin\Debug\net8.0\MaskeTakip.pdb
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.AssemblyInfoInputs.cache
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.AssemblyInfo.cs
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.csproj.CoreCompileInputs.cache
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.dll
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\refint\MaskeTakip.dll
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.pdb
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\MaskeTakip.genruntimeconfig.cache
+D:\C#\MaskeTakip\MaskeTakip\obj\Debug\net8.0\ref\MaskeTakip.dll

@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "qC5DNqK6a/oeFq+Nv42Kb/xp109TsGAEDLbz3LiBZCShxKzr5LXd4XFaL4Er3hjkhfiIlgLkt04wqkzr7x1gcw==",
+  "success": false,
+  "projectFilePath": "D:\\C#\\MaskeTakip\\Business\\Business.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Http paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Duplex paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Duplex",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.NetTcp paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.NetTcp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Federation paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Federation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Security paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Security",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

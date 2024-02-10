@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "System.ServiceModel.Duplex": "4.10.0",
+          "System.ServiceModel.Federation": "4.10.0",
+          "System.ServiceModel.Http": "4.10.0",
+          "System.ServiceModel.NetTcp": "4.10.0",
+          "System.ServiceModel.Security": "4.10.0"
+        },
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Business >= 1.0.0",
+      "Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Huawei\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\MaskeTakip\\MaskeTakip\\MaskeTakip.csproj",
+      "projectName": "MaskeTakip",
+      "projectPath": "D:\\C#\\MaskeTakip\\MaskeTakip\\MaskeTakip.csproj",
+      "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\MaskeTakip\\MaskeTakip\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\C#\\MaskeTakip\\Business\\Business.csproj": {
+              "projectPath": "D:\\C#\\MaskeTakip\\Business\\Business.csproj"
+            },
+            "D:\\C#\\MaskeTakip\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\C#\\MaskeTakip\\Entities\\Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Http paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Http",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Duplex paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Duplex",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.NetTcp paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.NetTcp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Federation paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Federation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.ServiceModel.Security paketi bulunamıyor. Kaynaklarda bu kimliğe sahip paket yok: Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Security",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
